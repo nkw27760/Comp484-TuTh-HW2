@@ -1,1 +1,1 @@
-https://csun-orm.github.io/comp484-hw2/
+https://nkw27760.github.io/Comp484-TuTh-HW2/
